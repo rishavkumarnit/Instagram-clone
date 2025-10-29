@@ -185,6 +185,14 @@
     width: 90vw;
   }
 
+  .stories {
+    margin-top: 90px;
+  }
+
+  .next-arrow {
+    margin-top: 60px;
+  }
+
   .top-bar,
   .bottom-bar {
     display: flex;
